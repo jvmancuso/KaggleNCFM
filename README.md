@@ -3,7 +3,7 @@ A collection of notebooks and files related to my work on the [NCFM Kaggle compe
 1.  Data Augmentation (Train/Val/Test) (Keras)
 2.  Finetune Xception (Keras)
 3.  Finetune VGG-16 and 19 (Keras)
-4.  Finetune Resnet (Keras)
+4.  Finetune Resnet-50 (Keras)
 5.  Ensemble with model averaging (manual or scikit-learn)
 6.  Use Bayesian optimization for selecting architecture and training tops of models
 7.  Segmentation (YOLO, or something more easily compatible with Keras)
