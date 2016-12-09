@@ -6,5 +6,5 @@ A collection of notebooks and files related to my work on the [NCFM Kaggle compe
 4.  Finetune Resnet-50 (Keras)
 5.  Ensemble with model averaging (manual or scikit-learn)
 6.  Use Bayesian optimization for selecting architecture and training tops of models
-7.  Segmentation (YOLO, or something more compatible with Keras, or [something from Caffe](https://github.com/rbgirshick/py-faster-rcnn))
+7.  Segmentation ([YOLO](https://groups.google.com/d/topic/keras-users/DjclH2L7epU), or something more compatible with Keras, or [something from Caffe](https://github.com/rbgirshick/py-faster-rcnn))
 8.  Optimize for complementarity between models (e.g. optimize precision for one and recall for another)
