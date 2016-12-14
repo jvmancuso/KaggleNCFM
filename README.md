@@ -4,7 +4,7 @@ A collection of notebooks and files related to my work on the [NCFM Kaggle compe
 2.  Finetune Xception (Keras)
 3.  Finetune VGG-16 and 19 (Keras)
 4.  Finetune Resnet-50 (Keras)
-5.  Augmented bagging for each model, then average the models together.  Better yet, stack a softmax classifier on top.
-6.  Use Bayesian optimization for selecting architecture and training tops of models
+5.  Augmented bagging for each model, then average the models together.  Better yet, stack a softmax classifier on top.  Even further, train nonlinear stacker on combination of original features and model predictions as described [here](http://mlwave.com/kaggle-ensembling-guide/)
+6.  Use Bayesian optimization for training stacker
 7.  Segmentation ([YOLO](https://groups.google.com/d/topic/keras-users/DjclH2L7epU), or something more compatible with Keras, or [something from Caffe](https://github.com/rbgirshick/py-faster-rcnn))
 8.  Optimize for complementarity between models (e.g. optimize precision for one and recall for another)
