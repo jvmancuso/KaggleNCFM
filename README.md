@@ -8,3 +8,5 @@ A collection of notebooks and files related to my work on the [NCFM Kaggle compe
 6.  Use Bayesian optimization for training stacker
 7.  Segmentation ([YOLO](https://groups.google.com/d/topic/keras-users/DjclH2L7epU), or something more compatible with Keras, or [something from Caffe](https://github.com/rbgirshick/py-faster-rcnn))
 8.  Optimize for complementarity between models (e.g. optimize precision for one and recall for another)
+
+UPDATE: I abandoned this plan after finding work in order to focus on my research at the Cleveland Clinic.
